@@ -1,1 +1,5 @@
-print("\"안녕하세요\"라고 말했습니다")
+# 두 수의 차
+
+def solution(num1, num2):
+    answer = num1-num2
+    return answer
