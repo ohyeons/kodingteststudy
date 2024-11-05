@@ -1,0 +1,10 @@
+#세균수 증식
+
+def solution(n, t):
+    
+    answer = n 				
+    
+    for i in range(t): 	
+         answer *= 2  	
+        
+    return answer
